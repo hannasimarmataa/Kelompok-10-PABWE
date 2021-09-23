@@ -8,10 +8,10 @@ Nama Kelompok :
 
 Berikut ini adalah informasi seputar kebutuhan dalam pembangunan website Program Studi Informatika IT Del :
 ### 1. Repositori 
-Dalam pengembangan website statis ini kami menggunakan repositori Github dengan link https://github.com/ifs19063/Kelompok-10-PABWE
+Dalam Pembangungan Website Statis Informasi Program Studi Sarjana Informatika ini kami menggunakan repositori Github dengan link https://github.com/ifs19063/Kelompok-10-PABWE
 
 ### 2. Spesifikasi Hardware Laptop
-Spesifikasi Hardware yang digunakan dalam proyek ini adalah :
+Perangkat keras yang digunakan untuk Pembangungan Website Statis Informasi Program Studi Sarjana Informatika akan dijelaskan pada tabel berikut :
 | Hardware | Specification |
 | ---------------- | ---------------- |
 | Processor | Intel Core i5 |
