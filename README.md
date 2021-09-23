@@ -17,7 +17,7 @@ Spesifikasi Hardware yang digunakan dalam proyek ini adalah :
 | Processor | Intel Core i5 |
 | RAM | 8 GB |
 
-## 3. Teknologi Software
+### 3. Teknologi Software
 Perangkat lunak yang digunakan untuk Pembangungan Website Statis Informasi Program Studi Sarjana Informatika akan dijelaskan pada tabel berikut :
 | Groups | Tools | Specification |
 | ----------------| ---------------- | ---------------- |
