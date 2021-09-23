@@ -26,7 +26,7 @@ Perangkat lunak yang digunakan untuk Pembangungan Website Statis Informasi Progr
 | Client | Browser | Mozilla Firefox, Google Chrome, Microsoft Edge |
 | Dokumentasi | Paket Office | Microsoft Office 2016 |
 
-## 4. Fitur
+### 4. Fitur
 Fitur fitur yang ada didalam Website Statis Informasi Program Studi Sarjana Informatika ini adalah :
 * __Fitur Profil__ yang menjelaskan tentang informasi umum hingga detail mengenai program studi Sarjana Informatika
 * __Fitur HIMASTI__ yang menjelaskan tentang himpunan mahasiswa program studi sarjana informatika
