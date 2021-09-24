@@ -6,7 +6,7 @@ Nama Kelompok :
 * 11S19062 Grace Stefani Natalia Pakpahan 
 * 11S19063 Hanna Suryani Simarmata 
 
-Berikut ini adalah informasi seputar kebutuhan dalam pembangunan website Program Studi Informatika IT Del :
+Berikut adalah informasi seputar kebutuhan dalam pembangunan website Prodi Informatika IT Del :
 
 ### 1. Repositori 
 Dalam Pembangungan Website Statis Informasi Program Studi Sarjana Informatika ini kami menggunakan repositori Github dengan link https://github.com/ifs19063/Kelompok-10-PABWE
