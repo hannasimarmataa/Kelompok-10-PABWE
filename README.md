@@ -33,3 +33,4 @@ Fitur fitur yang ada didalam Website Statis Informasi Program Studi Sarjana Info
 * __Fitur HIMASTI__ yang menjelaskan tentang himpunan mahasiswa program studi sarjana informatika
 * __Fitur Prestasi__ yang memberikan informasi seputar capaian-capaian prestasi yang didapatkan oleh mahasiswa/i Sarjana Informatika.
 * __Fitur Quicklink__ yang memungkinkan user untuk dapat terhubung ke beberapa halaman seperti halaman website resmi Institut Teknologi Del
+* __Fitur Kontak__ yang memungkinkan user dapat menghubungi kontak yang ada di halaman untuk memperjelas informasi
