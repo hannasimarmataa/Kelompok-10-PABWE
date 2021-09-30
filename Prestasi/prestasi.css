@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+header{
+    background-color: grey;
+    padding: 15px;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+}
+nav{
+    background-color: rgb(209, 207, 207);
+    padding: 5px;
+    font-size: large;
+}
+footer{
+    background-color: rgb(209, 207, 207);
+    padding: 5px;
+    font-size: medium;
+    text-align: center;
+}
+article{
+    padding: 20px;
+}
