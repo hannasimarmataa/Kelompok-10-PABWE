@@ -1,26 +1,13 @@
-*{
-    box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif;
+body{
+    background-color: rgb(226, 226, 226);
+    font-weight: 400;
 }
-header{
-    background-color: grey;
-    padding: 15px;
-    color: white;
-    font-size: xx-large;
-    text-align: center;
-}
+
 nav{
-    background-color: rgb(209, 207, 207);
-    padding: 5px;
-    font-size: large;
+    background-color: rgb(255, 255, 255);
 }
-footer{
-    background-color: rgb(209, 207, 207);
-    padding: 5px;
-    font-size: medium;
-    text-align: center;
-}
+
 article{
-    padding-top: 20px;
-    padding-left: 20px;
+    padding: 20px;
+    font-size: large;
 }
